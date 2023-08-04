@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋, I'm Yesith Themiya Pieris(Maca)</h1>
+<h1 align="center">Hello👋, I'm Yesith Themiya Pieris (Maca)</h1>
 - 📫 How to reach me **themiyapieris33@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
