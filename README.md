@@ -2,6 +2,7 @@
 
 I'm **Yesith Themiya Pieris**, but you can call me **Maca**! 🦄
 
+Welcome to my digital playground!
 ---
 
 ## About Me
@@ -9,7 +10,6 @@ I'm **Yesith Themiya Pieris**, but you can call me **Maca**! 🦄
 🎓 **Undergraduate at IJSE Institute of Software Engineering**  
 🌐 **Freelancer in Digital Marketing & Business Problem Solving**  
 📘 **Also studying strategic management at Ceylon Strategic Research Institute.**  
-👔 **Also worked as an IT Executive at Martha Enterprises Pvt Ltd for over a year.**
 
 ---
 
@@ -33,9 +33,10 @@ I'm proficient in a range of technologies, including:
 
 ## Fun Facts
 
-- 🎉 I'm 20 years old and always eager to learn and grow.
-- 🌟 Nickname: **Maca**, because I believe in doing things with a touch of magic and creativity.
-
+- **Tech Enthusiast**: I spend my free time delving into the latest tech trends and expanding my knowledge.
+- **Creative Thinker**: I love brainstorming innovative solutions and turning ideas into reality.
+- **Problem Solver**: Whether it's coding or real-life challenges, I enjoy finding effective solutions.
+- **Continuous Learner**: Always on a quest to learn more, do more, and be more in the world of technology.
 ---
 
 ## Let's Connect!
