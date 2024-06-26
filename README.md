@@ -1,3 +1,50 @@
+# Hello, World! 👋
+
+I'm **Yesith Themiya Pieris**, but you can call me **Maca**! 🦄
+
+---
+
+## About Me
+
+🎓 **Undergraduate at IJSE Institute of Software Engineering**  
+🌐 **Freelancer in Digital Marketing & Business Problem Solving**  
+📘 **Also studying strategic management at Ceylon Strategic Research Institute.**  
+👔 **Also worked as an IT Executive at Martha Enterprises Pvt Ltd for over a year.**
+
+---
+
+## My Passions
+
+- 🛠️ **Creating Things:** I thrive on bringing ideas to life, whether it's a new app, a clever script, or an innovative marketing campaign.
+- 🧩 **Solving Problems:** There's nothing quite like the satisfaction of untangling a complex issue and finding a solution that works.
+- 🔍 **Exploring Technology:** In my free time, you'll find me diving deep into the latest tech trends and expanding my knowledge of the ever-evolving digital world.
+
+---
+
+## Tech Stack
+
+I'm proficient in a range of technologies, including:
+
+- **Languages:** Java, JavaScript, TypeScript, HTML, CSS
+- **Frameworks & Libraries:** React, Next.js, React Native
+- **Styling:** SASS, Tailwind CSS
+
+---
+
+## Fun Facts
+
+- 🎉 I'm 20 years old and always eager to learn and grow.
+- 🌟 Nickname: **Maca**, because I believe in doing things with a touch of magic and creativity.
+
+---
+
+## Let's Connect!
+
+Feel free to reach out if you want to collaborate, brainstorm, or just chat about the latest in tech!
+
+---
+
+
 <h1 align="center">Hello👋, I'm Yesith Themiya Pieris (Maca)</h1>
 - 📫 How to reach me **themiyapieris33@gmail.com**
 
