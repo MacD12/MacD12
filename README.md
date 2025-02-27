@@ -5,7 +5,6 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🎓 **Undergraduate** at **IJSE** 
 
 - 🌐 **Freelancer** in **Digital Marketing**
 
