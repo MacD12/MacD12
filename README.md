@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there,</h1>
+*/ <h1 align="center">👋 Hey there,</h1>
 <h2 align="center"><em> I'm <b> Yesith Themiya Pieris </b>, but you can call me <b> Maca </b>! </em>🦄</h2>
 
 <table align="center">
@@ -86,6 +86,6 @@
 
 </p>
 
----
+--- /*
 <h3 align="center">Support Me:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/scar2001"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
